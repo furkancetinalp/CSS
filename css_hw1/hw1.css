@@ -1,0 +1,53 @@
+body{
+    text-align: center;
+    color: rgb(66, 78, 10);
+}
+h1{
+    color:rgba(61, 144, 211, 0.966);
+    text-align: center;
+    size: 40px;
+}
+h2{
+    color:rgb(167, 49, 118);
+    text-align: center;
+    size: 25px;
+}
+
+h3{
+    color:rgb(42, 172, 30);
+    text-align: center;
+    size: 20px;
+}
+h4{
+    color:rgb(138, 22, 93);
+    text-align: center;
+    size: 15px;
+}
+
+li{
+    list-style-position: inside;
+}
+.linked{
+    background-color: rgb(133, 80, 255);
+    color: wheat;
+    padding: 6px 10px;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+
+}
+
+.no_space{
+    margin: 0;
+    padding: 0;
+    line-height: 0px;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+
+.left-side{
+    text-align: left;
+}
