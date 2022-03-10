@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+p{
+    margin: 0px auto 0px auto;
+    padding-left: 35px;
+    font-size: medium;
+    height: 20px;
+}
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
+
+input{
+    
+    margin-bottom: -400px;
+    margin-left: -40px;
+    width: 350px;
+    padding-right:50px
+
+}
+.contents{
+    background-color: rgb(231, 226, 226);
+    height: 65px;
+    padding-left: 590px; /* used to put the items in the middle of the page*/
+
+
+}
+
+button{
+    width: 140px;
+    height: 20px;
+    margin-left: 5px;
+    margin-top: 3.5px;
+    float: left;
+}
+.image{
+    width: 400px;
+    height: 150px;
+    padding-left:550px ;
+}
+
+
+.left-bar{
+    padding-top: 5px;
+    width: 35%;
+    height: 80px;
+    background-color: rgb(88, 191, 231);
+    float: left;
+}
+
+.middle{
+    text-align:center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.middle-bar{
+    width: 20%;
+    height: 85px;
+
+    background-color:rgb(73, 162, 214);
+    float: left;
+}
+
+.right-bar{
+    width: 45%;
+    height: 85px;
+
+    background-color: rgb(44, 222, 235);
+    float: left;
+}
+
+a{
+    text-align: center;
+
+    
+}
+.input-2{
+    width: 150px;
+    margin-top: 0px;
+    margin-left: 250px;
+    float: left;
+}
+
+.button-2{
+    width: 90px;
+    margin-left: 280px;
+    float: left;
+}
